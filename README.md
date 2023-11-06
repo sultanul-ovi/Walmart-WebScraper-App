@@ -43,34 +43,34 @@ Constructed with Node.js, the application utilizes a suite of libraries and midd
 - **Client-side Scripting**: `walmart.js` activates DataTables on the admin dashboard, enhancing user interaction.
 
 ## ScreenShots
-System Architecture
+Dashboard
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/System_Architecture.png"  width="850" height="420" />
+   <img src="https://github.com/sultanul-ovi/Walmart-WebScraper-App/blob/master/images/p2.png" width="800" height="400" />
 </h1>
 
-Application Architecture
+Products Update Information Page
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Application_Architecure.png"  width="420" height="420" />
+   <img src="https://github.com/sultanul-ovi/Walmart-WebScraper-App/blob/master/images/p3.png" width="800" height="300" />
 </h1>
 
-Overview of Use Cases
+In Shock Products Update
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Overview_Use_Cases.png"  width="850" height="420" />
+   <img src="https://github.com/sultanul-ovi/Walmart-WebScraper-App/blob/master/images/p4.png" width="800" height="400" />
 </h1>
 
-Database Table Design
+Walmart Data Collection
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Database%2BTable%2BDesign.png"  width="600" height="420" />
+   <img src="https://github.com/sultanul-ovi/Walmart-WebScraper-App/blob/master/images/p5.png" width="800" height="400" />
 </h1>
 
-DAO Class Diagram
+Fetched Data
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/DAO%2BClass%2BDiagram.png"  width="850" height="420" />
+   <img src="https://github.com/sultanul-ovi/Walmart-WebScraper-App/blob/master/images/p6.png" width="800" height="400" />
 </h1>
 
-Domain Model Class Diagram
+Updated In Stock Products
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/Paperback_Portal/blob/master/images/Domain%2BModel%2BClass%2BDiagram.png"  width="420" height="420" />
+   <img src="https://github.com/sultanul-ovi/Walmart-WebScraper-App/blob/master/images/p7.png" width="800" height="400" />
 </h1>
 
 ## Getting Started
