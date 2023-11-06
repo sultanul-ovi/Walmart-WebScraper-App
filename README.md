@@ -44,7 +44,7 @@ Constructed with Node.js, the application utilizes a suite of libraries and midd
 
 ## Getting Started
 
-To interact with the "NetScrape" application:
+To interact with the "WebScraper" application:
 
 1. Install Node.js and MongoDB on your machine.
 2. Clone the repository to your local environment.
